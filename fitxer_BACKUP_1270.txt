@@ -1,9 +1,0 @@
-﻿Primera modificación
-
-<<<<<<< HEAD
-
-
-tercera modificación
-=======
-segunda modificación 
->>>>>>> branch1
